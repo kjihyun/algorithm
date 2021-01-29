@@ -1,7 +1,8 @@
 # Algorithm
+
 only python
 
-[(https://online.spartacodingclub.kr/)](https://online.spartacodingclub.kr/)
+[https://online.spartacodingclub.kr/](https://online.spartacodingclub.kr/)
 
 [https://leetcode.com/](https://leetcode.com/)
 
